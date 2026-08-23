@@ -1,0 +1,6 @@
+{
+  "name": "TallyKhata",
+  "description": "ডিজিটাল খাতা ও ক্যাশ হিসাব - কাস্টমার ও সাপ্লায়ারের বাকি হিসাব, ক্যাশ বাক্স ও ডিজিটাল রশিদের বিশ্বস্ত খাতা",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
